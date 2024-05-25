@@ -1,0 +1,419 @@
+{
+  "id": "Escenarios",
+  "viewports": [
+    {
+      "label": "destop",
+      "width": 1000,
+      "height": 660
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "ES01 Login Page",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES01/01_Escenario_01_pruebas_login.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES01/01_Escenario_01_pruebas_login.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES01 Crear pagina",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES01/02_Escenario_01_pruebas_pagina.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES01/02_Escenario_01_pruebas_pagina.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES01 Publicar pagina",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES01/03_Escenario_01_pruebas_publicar.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES01/03_Escenario_01_pruebas_publicar.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES01 Listar pagina",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES01/04_Escenario_01_pruebas_lista_paginas.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES01/04_Escenario_01_pruebas_lista_paginas.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+
+
+    {
+      "label": "ES02 Login Page",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES02/01_Escenario_02_pruebas_login.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES02/01_Escenario_02_pruebas_login.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES02 pagina",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES02/02_Escenario_02_pruebas_pagina.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES02/02_Escenario_02_pruebas_pagina.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES02 editada",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES02/03_Escenario_02_pruebas_editada.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES02/03_Escenario_02_pruebas_editada.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+    {
+      "label": "ES02 editada lista",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES02/04_Escenario_02_pruebas_editada_lista.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES02/04_Escenario_02_pruebas_editada_lista.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+
+
+    {
+      "label": "ES03 Login Page",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES03/01_Escenario_03_pruebas_login.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES03/01_Escenario_03_pruebas_login.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES03 pagina",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES03/02_Escenario_03_pruebas_creada.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES03/02_Escenario_03_pruebas_creada.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES03 publicada",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES03/03_Escenario_03_pruebas_publicada.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES03/03_Escenario_03_pruebas_publicada.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES03 borrada",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES03/04_Escenario_03_pruebas_borrada.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES03/04_Escenario_03_pruebas_borrada.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+
+
+
+    {
+      "label": "ES06 Login Page",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES06/02_Escenario_06_pruebas_login.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES06/02_Escenario_06_pruebas_login.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES06 Web",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES06/03_Escenario_06_pruebas_Web.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES06/03_Escenario_06_pruebas_Web.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES06 Post",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES06/04_Escenario_06_pruebas_post.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES06/04_Escenario_06_pruebas_post.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES06 Publicar",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES06/05_Escenario_06_pruebas_publicar.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES06/05_Escenario_06_pruebas_publicar.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+
+
+    {
+      "label": "ES07 Login Page",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES07/02_Escenario_07_pruebas_login.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES07/02_Escenario_07_pruebas_login.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES07 web",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES07/03_Escenario_07_pruebas_Web.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES07/03_Escenario_07_pruebas_Web.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES07 post",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES07/04_Escenario_07_pruebas_post.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES07/04_Escenario_07_pruebas_post.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "ES07 editado lista",
+      "url": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-3-42-8/ES07/09_Escenario_07_pruebas_editada_lista.png",
+      "referenceUrl": "file:///C:/Users/usuario%202/Desktop/MISO/Pruebas%20automatizadas%20de%20software/semana%205/Entrega%20semana%205/PruebasAutomatizadasMisoGrupo17/Backstop/screenshot/Ghost-5-82-4/ES07/09_Escenario_07_pruebas_editada_lista.png",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    }
+
+
+
+    
+    
+
+
+  
+
+    
+
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
+
+
