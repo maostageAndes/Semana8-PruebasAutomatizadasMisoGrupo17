@@ -8,7 +8,7 @@ __EJECUCIÓN - SEMANA 1__
 - Al ser un grupo de 3 integrantes nos ha correspondido detectar al menos 15 errores. Encontramos 20, los cuales se encuentran en la sección ISSUES del proyecto: [Issues](https://github.com/maostageAndes/Semana8-PruebasAutomatizadasMisoGrupo17/issues)
 - El inventario de pruebas exploratorias se encuentra en el siguiente link: [Inventario de pruebas exploratorias](https://docs.google.com/spreadsheets/d/1g90SI2BTKK6ZCkrrZfuSbVXDcpptux3_/edit?usp=sharing&ouid=101333718335758307242&rtpof=true&sd=true)
 - La estrategia de pruebas para las 8 semanas se encuentra en el siguiente link: [Estrategia de Pruebas](https://docs.google.com/document/d/1fgb7LO28HcGESjPvXcYTds7dM6lxmtWj/edit?usp=sharing&ouid=109516556394632446046&rtpof=true&sd=true)
-- Enlace a video: [Video]()
+- Enlace a video: [Video](https://drive.google.com/file/d/1rNvVZXrMkBOOEmtKElE1LofYNaR4DqdD/view?usp=drive_link)
 ##
 __EJECUCIÓN - SEMANA 2__
 | Herramienta requerida   |   Versión     |
