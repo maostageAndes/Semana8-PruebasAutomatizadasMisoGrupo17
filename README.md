@@ -18,7 +18,7 @@ __EJECUCIÓN - SEMANA 2__
 | Ghost  | 5.82.1  |
 | Cypress  | 4.9.0  |
 - Todas las pruebas se efectúan modificando el viewport.
-- Descomprimir el release 3.0.0 y ubicarse en la raiz del proyecto
+- Descomprimir el release 1.0.0 y ubicarse en la raiz del proyecto
 - El proyecto se encuentra en la carpeta: semana 2/monkey-cypress.
 - Para la ejecución, desde consola, ubicarse en la raiz del proyecto y ejecutar la siguiente sentencia: npx cypress open
 ##
@@ -29,7 +29,7 @@ __EJECUCIÓN - SEMANA 3__
 | Npm  | 10.5.2  |
 | Ghost  | 5.82.1  |
 - Todas las pruebas se efectúan modificando el viewport.
-- Descomprimir el release 3.0.0 y ubicarse en la raiz del proyecto
+- Descomprimir el release 1.0.0 y ubicarse en la raiz del proyecto
 - El proyecto se encuentra en la carpeta: semana 3/RIPuppet.
 - Para instalar las dependencias, desde consola, ubicarse en la raiz del proyecto y ejecutar la sentencia: npm install
 - Para la ejecución, desde consola, ubicarse en la raiz del proyecto y ejecutar la siguiente sentencia: node index.js
@@ -42,7 +42,7 @@ __EJECUCIÓN - SEMANA 4__
 | Ghost  | 5.82.1  |
 | Cypress  | 13.9.0  |
 - Todas las pruebas se efectúan modificando el viewport.
-- Descomprimir el release 3.0.0 y ubicarse en la raiz del proyecto
+- Descomprimir el release 1.0.0 y ubicarse en la raiz del proyecto
 - El proyecto se encuentra en la carpeta: cypress / e2e /semana 4 y 5/
 - Para instalar las dependencias, desde consola, ubicarse en la raiz del proyecto y ejecutar la sentencia: npm install
 - Para la ejecución, desde consola, ubicarse en la raiz del proyecto y ejecutar la siguiente sentencia: npx cypress open
@@ -56,7 +56,7 @@ __EJECUCIÓN - SEMANA 5__
 | Cypress  | 13.9.0  |
 | Backstop.js  | 6.3.23  |
 - Todas las pruebas se efectúan modificando el viewport.
-- Descomprimir el release 3.0.0 y ubicarse en la raiz del proyecto
+- Descomprimir el release 1.0.0 y ubicarse en la raiz del proyecto
 - El proyecto se encuentra en la carpeta: cypress / e2e /semana 4 y 5/
 - Para instalar las dependencias, desde consola, ubicarse en la raiz del proyecto y ejecutar la sentencia: npm install
 - Para la ejecución, desde consola, ubicarse en la raiz del proyecto y ejecutar la siguiente sentencia: npx cypress open
@@ -72,7 +72,7 @@ __EJECUCIÓN - SEMANAS 6 y 7__
 | Faker  | 6.6.6  |
 - Todas las pruebas se efectúan modificando el viewport.
 - Las semanas 6 y 7 corresponden a ejecuciones de generación de datos. Para la semana 6 se efectuarán pruebas sobre los navegadores Chrome y Electron.  Para la semana 7 se efectuarán pruebas sobre los navegadores Edge y Firefox.
-- Descomprimir el release 3.0.0 y ubicarse en la raiz del proyecto
+- Descomprimir el release 1.0.0 y ubicarse en la raiz del proyecto
 - El proyecto se encuentra en la carpeta: cypress / e2e /semana 6 y 7/
 - Para instalar las dependencias, desde consola, ubicarse en la raiz del proyecto y ejecutar la sentencia: npm install
 - Para la ejecución, desde consola, ubicarse en la raiz del proyecto y ejecutar la siguiente sentencia: npx cypress open
